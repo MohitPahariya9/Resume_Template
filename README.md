@@ -6,3 +6,4 @@
 
  Visit our site on live from anywhere -
  https://mohitpahariya9.github.io/Resume_Template/
+ https://mohitpahariya.my-style.in/
